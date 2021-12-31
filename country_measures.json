@@ -1,0 +1,343 @@
+{
+    "SHM": {
+        "StayHomeOrder":4,     
+        "RegionalStayHomeOrder ":3,     
+        "StayHomeGen ":2,     
+        "StayHomeRiskG ":1,     
+        "StayHomeOrderPartial":4,     
+        "RegionalStayHomeOrderPartial ":3,     
+        "StayHomeGenPartial ":2,     
+        "StayHomeRiskGPartial ":1
+        },
+    "SMHT":{
+        "StayHomeOrder":1,     
+        "RegionalStayHomeOrder ":1,     
+        "StayHomeGen ":1,     
+        "StayHomeRiskG ":1,     
+        "StayHomeOrderPartial":0,     
+        "RegionalStayHomeOrderPartial ":0,     
+        "StayHomeGenPartial ":0,     
+        "StayHomeRiskGPartial ":0
+    },
+    "EINCM":{
+        "ClosDayCare":1,     
+        "ClosPrim":0,     
+        "ClosSec ":0,     
+        "ClosHigh ":0,     
+        "ClosDayCarePartial":1,     
+        "ClosPrimPartial":0,     
+        "ClosSecPartial ":0,     
+        "ClosHighPartial ":0
+    },
+    "EIPCM":{
+        "ClosDayCare":0,     
+        "ClosPrim":1,     
+        "ClosSec ":0,     
+        "ClosHigh ":0,     
+        "ClosDayCarePartial":0,     
+        "ClosPrimPartial":1,     
+        "ClosSecPartial ":0,     
+        "ClosHighPartial ":0
+    },
+    "EISCM":{
+        "ClosDayCare":0,     
+        "ClosPrim":0,     
+        "ClosSec ":1,     
+        "ClosHigh ":0,     
+        "ClosDayCarePartial":0,     
+        "ClosPrimPartial":0,     
+        "ClosSecPartial ":1,     
+        "ClosHighPartial ":0
+    },
+    "EIHCM":{
+        "ClosDayCare":0,     
+        "ClosPrim":0,     
+        "ClosSec ":0,     
+        "ClosHigh ":1,     
+        "ClosDayCarePartial":0,     
+        "ClosPrimPartial":0,     
+        "ClosSecPartial ":0,     
+        "ClosHighPartial ":1
+    },
+    "EICMT":{
+        "ClosDayCare":1,     
+        "ClosPrim":1,     
+        "ClosSec ":1,     
+        "ClosHigh ":1,     
+        "ClosDayCarePartial":0,     
+        "ClosPrimPartial":0,     
+        "ClosSecPartial ":0,     
+        "ClosHighPartial ":0     
+    },
+    
+        "MGEM":{
+            "MassGatherAll":0,     
+            "BanOnAllEvents":1,     
+            "IndoorOver50":1,     
+            "IndoorOver100":1,     
+            "IndoorOver500":1,     
+            "IndoorOver1000":1,     
+            "OutdoorOver50":1,     
+            "OutdoorOver100":1,     
+            "OutdoorOver500":1,     
+            "OutdoorOver1000":1,     
+            "MassGatherAllPartial":0,     
+            "BanOnAllEventsPartial":1,     
+            "IndoorOver50Partial":1,     
+            "IndoorOver100Partial":1,     
+            "IndoorOver500Partial":1,     
+            "IndoorOver1000Partial":1,
+            "OutdoorOver50Partial":1,     
+            "OutdoorOver100Partial":1,     
+            "OutdoorOver500Partial":1,     
+            "OutdoorOver1000Partial":1
+        },
+        "MGIM":{
+            "MassGatherAll":1,     
+            "BanOnAllEvents":1,     
+            "IndoorOver50":1,     
+            "IndoorOver100":1,     
+            "IndoorOver500":1,     
+            "IndoorOver1000":1,
+            "OutdoorOver50":0,     
+            "OutdoorOver100":0,     
+            "OutdoorOver500":0,     
+            "OutdoorOver1000":0,     
+            "MassGatherAllPartial":1,     
+            "BanOnAllEventsPartial":1,     
+            "IndoorOver50Partial":1,     
+            "IndoorOver100Partial":1,     
+            "IndoorOver500Partial":1,     
+            "IndoorOver1000Partial":1,
+            "OutdoorOver50Partial":1,     
+            "OutdoorOver100Partial":1,     
+            "OutdoorOver500Partial":1,     
+            "OutdoorOver1000Partial":1
+        },
+        "MGOM":{
+            "MassGatherAll":1,     
+            "BanOnAllEvents":1,     
+            "IndoorOver50":0,     
+            "IndoorOver100":0,     
+            "IndoorOver500":0,     
+            "IndoorOver1000":0,     
+            "OutdoorOver50":1,     
+            "OutdoorOver100":1,     
+            "OutdoorOver500":1,     
+            "OutdoorOver1000":1,     
+            "MassGatherAllPartial":0,     
+            "BanOnAllEventsPartial":1,     
+            "IndoorOver50Partial":0,     
+            "IndoorOver100Partial":0,     
+            "IndoorOver500Partial":0,     
+            "IndoorOver1000Partial":0,
+            "OutdoorOver50Partial":1,     
+            "OutdoorOver100Partial":1,     
+            "OutdoorOver500Partial":1,     
+            "OutdoorOver1000Partial":1
+        },
+        "MGSO50M": {
+            "MassGatherAll":1,     
+            "BanOnAllEvents":1,     
+            "IndoorOver50":1,          
+            "OutdoorOver50":1,     
+            "MassGatherAllPartial":1,     
+            "BanOnAllEventsPartial":1,     
+            "IndoorOver50Partial":1,     
+            "OutdoorOver50Partial":1     
+            
+        },
+        "MGSO100M": {
+            "MassGatherAll":1,     
+            "BanOnAllEvents":1,     
+            "IndoorOver100":1,     
+            "OutdoorOver100":1,     
+            "MassGatherAllPartial":1,     
+            "BanOnAllEventsPartial":1,     
+            "IndoorOver100Partial":1,     
+            "OutdoorOver100Partial":1     
+            
+        },
+        "MGSO500M": {
+            "MassGatherAll":1,     
+            "BanOnAllEvents":1,         
+            "IndoorOver500":1,     
+            "OutdoorOver500":1,     
+            "MassGatherAllPartial":1,     
+            "BanOnAllEventsPartial":1,     
+            "IndoorOver500Partial":1,     
+            "OutdoorOver500Partial":1     
+        },
+        "MGSO1000M": {
+            "MassGatherAll":1,     
+            "BanOnAllEvents":1,        
+            "IndoorOver1000":1,     
+            "OutdoorOver1000":1,     
+            "MassGatherAllPartial":1,     
+            "BanOnAllEventsPartial":1,     
+            "IndoorOver1000Partial":1,
+            "OutdoorOver1000Partial":1
+        },
+        "MGMT": {
+            "MassGatherAll":1,     
+            "BanOnAllEvents":1,     
+            "IndoorOver50":1,     
+            "IndoorOver100":1,     
+            "IndoorOver500":1,     
+            "IndoorOver1000":1,     
+            "OutdoorOver50":1,     
+            "OutdoorOver100":1,     
+            "OutdoorOver500":1,     
+            "OutdoorOver1000":1,     
+            "MassGatherAllPartial":0,     
+            "BanOnAllEventsPartial":0,     
+            "IndoorOver50Partial":0,     
+            "IndoorOver100Partial":0,     
+            "IndoorOver500Partial":0,     
+            "IndoorOver1000Partial":0
+        },
+        "WM":{
+            "WorkplaceClosures":1,     
+            "AdaptationOfWorkplace":0,     
+            "WorkplaceClosuresPartial":1,     
+            "AdaptationOfWorkplacePartial":0     
+        },
+        "WMT":{
+            "WorkplaceClosures":1,     
+            "AdaptationOfWorkplace":1,     
+            "WorkplaceClosuresPartial":0,     
+            "AdaptationOfWorkplacePartial":0     
+        },
+        "TWM":{
+            "Teleworking":1,
+            "TeleworkingPartial":1
+        },
+        "TWMT":{
+            "Teleworking":1,
+            "TeleworkingPartail":0
+        },
+    "MOM":{
+        "MasksVoluntaryAllSpaces":0,
+        "MasksMandatoryAllSpaces":1,
+        "MasksVoluntaryAllSpacesPartial":0,
+        "MasksMandatoryAllSpacesPartial":1
+    },
+    "MOMT":{
+        "MasksVoluntaryAllSpaces":1,
+        "MasksMandatoryAllSpaces":1,
+        "MasksVoluntaryAllSpacesPartial":0,
+        "MasksMandatoryAllSpacesPartial":0
+    },
+    "MIM":{
+        "MasksVoluntaryClosedSpaces":0,
+        "MasksMandatoryClosedSpaces":1,
+        "MasksVoluntaryClosedSpacesPartial":0,
+        "MasksMandatoryClosedSpacesPartial":1
+    },
+    "MIMT":{
+        "MasksVoluntaryClosedSpaces":1,
+        "MasksMandatoryClosedSpaces":1,
+        "MasksVoluntaryClosedSpacesPartial":0,
+        "MasksMandatoryClosedSpacesPartial":0
+    },
+    "EVCM":{
+        "ClosPubAny":1,
+        "EntertainmentVenues":1,
+        "ClosPubAnyPartial":1,
+        "EntertainmentVenuesPartial":1
+    },
+    "EVCMT":{
+        "ClosPubAny":1,
+        "EntertainmentVenues":1,
+        "ClosPubAnyPartial":0,
+        "EntertainmentVenuesPartial":0
+    },
+    "PTCM":{
+        "ClosPubAny":1,
+        "ClosureOfPublicTransport":1,
+        "ClosPubAnyPartial":1,
+        "ClosureOfPublicTransportPartial":1
+    },
+    "PTCMT":{
+        "ClosPubAny":1,
+        "ClosureOfPublicTransport":1,
+        "ClosPubAnyPartial":0,
+        "ClosureOfPublicTransportPartial":0
+    },
+    "GCM":{
+        "ClosPubAny":1,
+        "GymsSportsCentres":1,
+        "ClosPubAnyPartial":1,
+        "GymsSportsCentresPartial":1
+    },
+    "GCMT":{
+        "ClosPubAny":1,
+        "GymsSportsCentres":1,
+        "ClosPubAnyPartial":0,
+        "GymsSportsCentresPartial":0
+    },
+    "HACM":{
+        "ClosPubAny":1,
+        "HotelsAccommodation":1,
+        "ClosPubAnyPartial":1,
+        "HotelsAccommodationPartial":1
+    },
+    "HACMT":{
+        "ClosPubAny":1,
+        "HotelsAccommodation":1,
+        "ClosPubAnyPartial":0,
+        "HotelsAccommodationPartial":0
+    },
+    "NESCM":{
+        "ClosPubAny":1,
+        "NonEssentialShops":1,
+        "ClosPubAnyPartial":1,
+        "NonEssentialShopsPartial":1
+    },
+    "NESCMT":{
+        "ClosPubAny":1,
+        "NonEssentialShops":1,
+        "ClosPubAnyPartial":0,
+        "NonEssentialShopsPartial":0
+    },
+    "POWCM":{
+        "ClosPubAny":1,
+        "PlaceOfWorship":1,
+        "ClosPubAnyPartial":1,
+        "PlaceOfWorshipPartial":1
+    },
+    "POWCMT":{
+        "ClosPubAny":1,
+        "PlaceOfWorship":1,
+        "ClosPubAnyPartial":0,
+        "PlaceOfWorshipPartial":0
+    },
+    "RCCM":{
+        "ClosPubAny":1,
+        "RestaurantsCafes":1,
+        "ClosPubAnyPartial":1,
+        "RestaurantsCafesPartial":1
+    },
+    "RCCMT":{
+        "ClosPubAny":1,
+        "RestaurantsCafes":1,
+        "ClosPubAnyPartial":0,
+        "RestaurantsCafesPartial":0
+    },
+    "SCM":{
+        "SocialCircle":1,
+        "SocialCirclePartial":1
+    },
+    "SCMT":{
+        "SocialCircle":1,
+        "SocialCirclePartial":0
+    },
+    "PGRM":{
+        "PrivateGatheringRestrictions":1,
+        "PrivateGatheringRestrictionsPartial":1
+    },
+    "PGRMT":{
+        "PrivateGatheringRestrictions":1,
+        "PrivateGatheringRestrictionsPartial":0
+    }
+}
