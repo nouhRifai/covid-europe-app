@@ -135,7 +135,7 @@ So, if there is any question or remark, we would like you to share it with us in
 
         Please note that the current page contains only data visualizations, and the predictors!\n 
     ''')
-    st.write("The complete work is available in this [Git repo](https://opendata.ecdc.europa.eu/).\n")
+    st.write("The complete work is available in this [Git repo](https://github.com/nouhRifai/covid-europe).\n")
     #################################
     st.subheader('Content')
     st.markdown('''
